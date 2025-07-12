@@ -1,0 +1,237 @@
+{
+  "admissions": {
+    "programs": [
+      {
+        "name": "B.Tech",
+        "duration": "4 years",
+        "specializations": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Civil Engineering",
+          "Electrical Engineering"
+        ],
+        "eligibility": {
+          "general": "Passed 10+2 with Physics, Chemistry, Mathematics and minimum 60% aggregate marks.",
+          "reserved_categories": "Passed 10+2 with Physics, Chemistry, Mathematics and minimum 55% aggregate marks."
+        },
+        "entrance_exam": {
+          "name": "JUIT Entrance Test (JET)",
+          "mode": "Online",
+          "pattern": "Objective type questions, 3 hours duration, covering Physics, Chemistry, Mathematics.",
+          "syllabus": "Based on 10+2 PCM subjects, NCERT syllabus."
+        }
+      },
+      {
+        "name": "M.Tech",
+        "duration": "2 years",
+        "specializations": [
+          "Computer Science and Engineering",
+          "VLSI Design",
+          "Thermal Engineering",
+          "Structural Engineering"
+        ],
+        "eligibility": {
+          "general": "Bachelor's degree in Engineering/Technology with minimum 60% marks.",
+          "reserved_categories": "Minimum 55% marks."
+        },
+        "entrance_exam": {
+          "name": "GATE / JUIT Interview",
+          "mode": "Online/Offline",
+          "pattern": "GATE score considered, followed by departmental interview."
+        }
+      },
+      {
+        "name": "MBA",
+        "duration": "2 years",
+        "eligibility": {
+          "general": "Graduation in any discipline with minimum 50% marks.",
+          "reserved_categories": "Minimum 45% marks."
+        },
+        "entrance_exam": {
+          "name": "JUIT MBA Entrance Test",
+          "mode": "Online",
+          "pattern": "Objective and descriptive type questions; 2 hours."
+        }
+      }
+    ],
+    "admission_process": [
+      "Step 1: Register and create account on JUIT admissions portal.",
+      "Step 2: Fill detailed online application form with personal, academic, and contact info.",
+      "Step 3: Upload required documents: mark sheets, certificates, photo, ID proof.",
+      "Step 4: Pay application fee online (INR 1000 for B.Tech/M.Tech, INR 1200 for MBA).",
+      "Step 5: Appear for the relevant entrance exam on scheduled date.",
+      "Step 6: Check entrance exam results on the portal.",
+      "Step 7: Participate in counseling and seat allotment based on merit and preferences.",
+      "Step 8: Complete document verification at JUIT campus or online.",
+      "Step 9: Pay admission and tuition fees within the stipulated deadline.",
+      "Step 10: Confirm admission and attend orientation program."
+    ],
+    "important_dates": {
+      "application_start": "2025-04-01",
+      "application_end": "2025-06-30",
+      "entrance_exam_date": "2025-07-15",
+      "result_declaration": "2025-08-05",
+      "counseling_start": "2025-08-10",
+      "fee_payment_deadline": "2025-08-20",
+      "orientation_date": "2025-09-01"
+    },
+    "fee_structure": {
+      "tuition_fee": {
+        "B.Tech": "INR 1,80,000 per year",
+        "M.Tech": "INR 1,50,000 per year",
+        "MBA": "INR 1,60,000 per year"
+      },
+      "hostel_fee": "INR 60,000 per year",
+      "mess_fee": "INR 30,000 per year",
+      "one_time_charges": {
+        "admission_fee": "INR 10,000",
+        "security_deposit": "INR 15,000 (refundable)"
+      }
+    },
+    "scholarships": [
+      {
+        "name": "Merit Scholarship",
+        "details": "Up to 50% tuition fee waiver for top 10% rankers in entrance exam."
+      },
+      {
+        "name": "Need-Based Scholarship",
+        "details": "Financial assistance for students from economically weaker sections."
+      },
+      {
+        "name": "Sports Scholarship",
+        "details": "Special scholarships for outstanding sports performers."
+      }
+    ],
+    "hostel_facilities": {
+      "rooms": "Single, double, and triple sharing rooms available.",
+      "amenities": [
+        "Wi-Fi enabled campus",
+        "24x7 security",
+        "Common rooms with TV and recreational facilities",
+        "Mess with hygienic food",
+        "Laundry service",
+        "Gym"
+      ],
+      "hostel_rules": [
+        "Strict anti-ragging policy",
+        "Visitors allowed only during specified hours",
+        "Curfew timings enforced"
+      ]
+    },
+    "placement_stats": {
+      "average_package": "INR 8 LPA",
+      "highest_package": "INR 25 LPA",
+      "top_recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Infosys",
+        "Tata Consultancy Services",
+        "Wipro"
+      ],
+      "placement_process": [
+        "Pre-placement talks",
+        "Written tests / coding rounds",
+        "Technical interviews",
+        "HR interviews"
+      ]
+    },
+    "campus_life": {
+      "facilities": [
+        "Modern classrooms and labs",
+        "Library with over 50,000 books and journals",
+        "Sports complex with indoor and outdoor facilities",
+        "Cafeteria and food courts",
+        "Medical center"
+      ],
+      "clubs_and_societies": [
+        "Robotics Club",
+        "Coding Club",
+        "Music and Dance Club",
+        "Literary Society",
+        "Photography Club"
+      ],
+      "events": [
+        "Annual Tech Fest",
+        "Cultural Fest",
+        "Sports Meet",
+        "Guest Lectures and Workshops"
+      ]
+    },
+    "transportation": {
+      "nearest_airport": "Chandigarh Airport, 60 km from campus",
+      "nearest_railway_station": "Kalka Railway Station, 15 km from campus",
+      "bus_connectivity": "Regular buses from Solan and Shimla",
+      "campus_shuttle": "Available for local travel"
+    },
+    "contact_info": {
+      "admissions_office": {
+        "phone": "+91-1792-239777",
+        "email": "admissions@juit.ac.in",
+        "office_hours": "9:00 AM - 5:00 PM (Mon - Fri)"
+      },
+      "hostel_office": {
+        "phone": "+91-1792-239778",
+        "email": "hostel@juit.ac.in"
+      },
+      "placement_cell": {
+        "phone": "+91-1792-239779",
+        "email": "placements@juit.ac.in"
+      }
+    },
+    "rules_and_regulations": {
+      "code_of_conduct": "Students must adhere to discipline, respect peers and faculty, and maintain campus decorum.",
+      "anti_ragging": "Strictly prohibited. Violations lead to immediate expulsion.",
+      "attendance": "Minimum 75% attendance required in all courses.",
+      "examination": "Students must abide by the examination rules and honesty policies."
+    },
+    "grievance_cell": {
+      "purpose": "To address complaints regarding academics, harassment, or other issues.",
+      "contact": {
+        "phone": "+91-1792-239780",
+        "email": "grievance@juit.ac.in"
+      }
+    },
+    "alumni_network": {
+      "details": "Active alumni with networking events, mentoring programs, and placement support.",
+      "contact_email": "alumni@juit.ac.in"
+    },
+    "covid19_policies": {
+      "vaccination": "Mandatory vaccination for all students and staff.",
+      "mask_mandate": "Masks required in indoor spaces.",
+      "social_distancing": "Follow social distancing protocols on campus.",
+      "sanitization": "Regular sanitization of campus facilities."
+    },
+    "faqs": [
+      {
+        "question": "What documents are required at the time of admission?",
+        "answer": "Original and photocopies of 10th, 12th mark sheets, entrance exam scorecard, category certificate (if applicable), passport size photos, and ID proof."
+      },
+      {
+        "question": "Can I get hostel accommodation?",
+        "answer": "Yes, JUIT provides hostel accommodation on a first-come-first-serve basis."
+      },
+      {
+        "question": "Is there any provision for lateral entry admissions?",
+        "answer": "Yes, lateral entry admissions are available in the 2nd year for diploma holders."
+      },
+      {
+        "question": "How can I prepare for the JUIT entrance exam?",
+        "answer": "Focus on Physics, Chemistry, and Mathematics as per the 10+2 NCERT syllabus. Solve previous year papers and mock tests."
+      },
+      {
+        "question": "Are there any scholarships available?",
+        "answer": "Yes, JUIT offers merit-based and need-based scholarships."
+      },
+      {
+        "question": "What is the refund policy if I withdraw?",
+        "answer": "Refunds are processed as per university rules; partial refund if withdrawal is before the semester starts."
+      },
+      {
+        "question": "Is there any transport facility from nearby cities?",
+        "answer": "Yes, regular buses and a campus shuttle service are available."
+      }
+    ]
+  }
+}
